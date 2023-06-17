@@ -1,0 +1,9 @@
+.data-container{
+    padding: 1em;
+    background-color: rgb(245, 244, 246);
+    flex: .85;
+    display: flex;
+    flex-wrap: wrap;
+     overflow-x: hidden;
+}
+

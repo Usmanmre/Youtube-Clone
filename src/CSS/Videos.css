@@ -1,0 +1,52 @@
+
+.card{
+    width: 23%;
+    margin-left: 1em;
+    margin-bottom:2em;
+    padding-bottom: 1em;
+     border: none;
+     height: fit-content;
+}
+.thumbnail{
+    /* border: 1px solid wheat; */
+    border-radius: .5em;
+}
+.vid_info{
+    display: flex;
+    flex-direction: row;
+    margin-top: .8em;
+}
+.channel_avatar{
+ height: 2.2em;
+ border-radius: 2em;
+}
+.vid_detail{
+    margin-left: .8em;
+}
+.vid_title{
+    font-size: 1rem;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+}
+.vid_channelname{
+    margin-top: .2em;
+    font-size: .87rem;
+    color: rgb(85, 85, 85);
+    font-family: 'Roboto', sans-serif;
+
+}
+.vid_last{
+    display: flex;
+    font-size: .8rem;
+    color: rgb(85, 85, 85);
+    font-family: 'Roboto', sans-serif;
+
+}
+.vid_time{
+    margin-left: .3em;
+    font-weight: 300;
+    font-size: .8rem;
+
+    font-family: 'Roboto', sans-serif;
+
+}
